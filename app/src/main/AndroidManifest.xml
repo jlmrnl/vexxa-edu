@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.vexxa">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Vexxa"
+        tools:targetApi="31">
+        <activity
+            android:name=".kungKong"
+            android:exported="false" />
+        <activity
+            android:name=".leader"
+            android:exported="false" />
+        <activity
+            android:name=".General"
+            android:exported="false" />
+        <activity
+            android:name=".about"
+            android:exported="false" />
+        <activity
+            android:name=".brainTeaser"
+            android:exported="false" />
+        <activity
+            android:name=".Settings"
+            android:exported="false" />
+        <activity
+            android:name=".MunaMona"
+            android:exported="false" />
+        <activity
+            android:name=".Heshis"
+            android:exported="false" />
+        <activity
+            android:name=".Your"
+            android:exported="false" />
+        <activity
+            android:name=".NangNg"
+            android:exported="false" />
+        <activity
+            android:name=".mainThereTheir"
+            android:exported="false" />
+        <activity
+            android:name=".English"
+            android:exported="false" />
+        <activity
+            android:name=".Filipino"
+            android:exported="false" />
+        <activity
+            android:name=".Grammar"
+            android:exported="false" />
+        <activity
+            android:name=".Cat"
+            android:exported="false" />
+        <activity
+            android:name=".ForgotPassword"
+            android:exported="false" />
+        <activity
+            android:name=".mainMenu"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

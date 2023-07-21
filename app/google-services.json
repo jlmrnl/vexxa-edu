@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "265068096874",
+    "firebase_url": "https://auth-6a782-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "auth-6a782",
+    "storage_bucket": "auth-6a782.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265068096874:android:2f2562ef1dd18fb52e4913",
+        "android_client_info": {
+          "package_name": "com.example.vexxa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265068096874-i5fpi5qql78l0qsebififoap4qfjs3t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0tK8_l1QH9XI3D3Za1GFwKXonPF0aJqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265068096874-i5fpi5qql78l0qsebififoap4qfjs3t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

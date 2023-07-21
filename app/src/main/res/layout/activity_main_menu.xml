@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bgschool"
+    tools:context=".mainMenu">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="90dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/txtVexxa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/architects_daughter"
+            android:text="Vexxa"
+            android:textStyle="bold"
+            android:shadowColor="#ffcc33"
+            android:shadowRadius="10"
+            android:shadowDy="20"
+            android:shadowDx="5"
+            android:textAlignment="center"
+            android:textColor="#333333"
+            android:textSize="80sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnPlay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="90dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginEnd="90dp"
+            android:layout_weight="1"
+            android:background="@drawable/custon_pressed"
+            android:text="Play"
+            android:textColor="#fff" />
+
+        <Button
+            android:id="@+id/btnLead"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custon_pressed"
+            android:textColor="#fff"
+            android:layout_marginTop="7dp"
+            android:layout_marginStart="90dp"
+            android:layout_marginEnd="90dp"
+            android:layout_weight="1"
+            android:text="Leaderboards" />
+
+        <Button
+            android:id="@+id/btnSettings"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custon_pressed"
+            android:textColor="#fff"
+            android:layout_marginTop="7dp"
+            android:layout_marginStart="90dp"
+            android:layout_marginEnd="90dp"
+            android:layout_weight="1"
+            android:text="Settings" />
+
+        <Button
+            android:id="@+id/btnAbout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custon_pressed"
+            android:textColor="#fff"
+            android:layout_marginTop="7dp"
+            android:layout_marginStart="90dp"
+            android:layout_marginEnd="90dp"
+            android:layout_marginBottom="40dp"
+            android:layout_weight="1"
+            android:text="About" />
+    </LinearLayout>
+</LinearLayout>

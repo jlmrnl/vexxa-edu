@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/drawable-v24/custom.xml" value="0.231" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/drawable/ansclick.xml" value="0.1855" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/drawable/custom_button.xml" value="0.1785" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/drawable/custom_quizbtn.xml" value="0.1" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/drawable/custon_mainbutton.xml" value="0.1785" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/drawable/custon_pressed.xml" value="0.1785" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/font/alfa_slab_one.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_about.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_brain.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_brainTeaser.xml" value="0.264" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_brain_teaser.xml" value="0.264" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_cat.xml" value="0.25" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_categories.xml" value="0.2" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_english.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_filipino.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_general.xml" value="0.25" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_grammar.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_guess.xml" value="0.2359375" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_guessing_game.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_heshis.xml" value="0.2359375" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_kung_kong.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_leader.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_main_menu.xml" value="0.2359375" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_muna_mona.xml" value="0.2140625" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_nang_ng.xml" value="0.25" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_ng_nang.xml" value="0.25" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_settings.xml" value="0.25" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_there_their.xml" value="0.25" />
+        <entry key="..\:/Users/jlmrn/AndroidStudioProjects/vexxa/app/src/main/res/layout/activity_your.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
